@@ -1,6 +1,6 @@
 # Site settings
 title: "Jason Carter"
-email: jason@jason-carter.net
+email: "jason@jason-carter.net"
 description: "Nothing to see here, just prettying up my code a bit"
 baseurl: "" 
 url: "https://jasoncarter80.github.io" 
