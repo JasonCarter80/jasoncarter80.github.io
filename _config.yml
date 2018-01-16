@@ -1,7 +1,7 @@
 # Site settings
-title: Jason Carter
+title: "Jason Carter"
 email: jason@jason-carter.net
-description: Nothing to see here, just prettying up my code a bit
+description: "Nothing to see here, just prettying up my code a bit"
 baseurl: "" 
 url: "https://jasoncarter80.github.io" 
 twitter_username: TampaDBA
